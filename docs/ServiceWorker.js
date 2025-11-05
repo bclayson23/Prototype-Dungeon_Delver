@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Prototype-Dungeon_Delver-1.0";
+const cacheName = "Brent Peterson Games-Dungeon of Brent-1.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",
